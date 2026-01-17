@@ -14,7 +14,7 @@
 
 ## ✨ About Me
 
-* 🧠 Software Engineer experienced in Python and automated testing, creating reliable and scalable software solutions.
+* 🧠 Software Engineer skilled in Python, developing automated testing solutions for web and database applications, delivering reliable and high-quality software.
 * 🎓 MSc in AI and aspiring ML engineer, passionate about applying ML and AI to solve real-world challenges.
 * 💻 Currently exploring RAG and agentic AI projects, while learning MLOps and cloud deployment.
 * 🔭 Aiming to create innovative AI products and deliver real-world impact in fast-paced teams.
@@ -32,7 +32,7 @@ Frameworks & Tools:
 
 AI & Data Science:
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 Dev & Productivity:
 
