@@ -42,15 +42,8 @@ Dev & Productivity:
 
 ##  Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/madhura-bn/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:madhurabngowda05@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" />
-  </a>
-</p>
+- **Email:** [madhurabngowda05@gmail.com](mailto:madhurabngowda05@gmail.com)
+- **LinkedIn:** [Madhura B N](https://www.linkedin.com/in/madhura-bn/)
 
 ---
 
