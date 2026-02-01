@@ -15,7 +15,7 @@
 ## ✨ About Me
 
 * 🧠 Software Engineer skilled in Python, developing automated testing solutions for web and database applications, delivering reliable and high-quality software.
-* 🎓 MSc in AI and aspiring ML engineer, passionate about applying ML and AI to solve real-world challenges.
+* 🎓 MSc in CS (AI) and aspiring ML engineer, passionate about applying ML and AI to solve real-world challenges.
 * 💻 Currently exploring RAG and agentic AI projects, while learning MLOps and cloud deployment.
 * 🔭 Aiming to create innovative AI products and deliver real-world impact in fast-paced teams.
 
